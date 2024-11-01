@@ -13,6 +13,17 @@ CS --------5
 GND -------GND
 VCC -------3.3V
 
+MCP2515    Nano
+
+INT -------D2
+SCK -------D13
+SI --------D11
+SO --------D12
+CS --------D10
+GND -------GND
+VCC -------5V
+
+
 */
 
 const int SPI_CS_PIN = 10; // marche avec nano
